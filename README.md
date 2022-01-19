@@ -20,7 +20,7 @@ I am AWS Certified DevOps engineer at <a href="https://rebbix.com/">Rebbix</a>
 
 ## My achievements
 
-- <a href="https://www.credly.com/badges/bb0bc8e8-3027-42f1-b189-48778ff62c96?source=linked_in_profile">AWS Certified DevOps Professioanl certification</a>
+- <a href="https://www.credly.com/badges/bb0bc8e8-3027-42f1-b189-48778ff62c96?source=linked_in_profile">AWS Certified DevOps Professional</a>
 - <a href="https://www.credly.com/badges/76922755-97b8-4272-beb7-adc60b3dc1c9">AWS Certified SysOps Associate</a>
 
 ### Connect with me
