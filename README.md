@@ -1,6 +1,6 @@
 ### Hi there, I'm Andrii 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/AStriletskyi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAndreKarpaty&screen_name=andrekarpaty)
+[![Twitter Follow](https://img.shields.io/twitter/follow/AStriletskyi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAStriletskyi&screen_name=astriletskyi)
 
 
 I am AWS Certified DevOps engineer at <a href="https://rebbix.com/">Rebbix</a>
