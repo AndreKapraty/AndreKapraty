@@ -1,14 +1,13 @@
 ### Hi there, I'm Andrii 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/AStriletskyi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fantonbabenko&screen_name=antonbabenko)
+[![Twitter Follow](https://img.shields.io/twitter/follow/AStriletskyi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAndreKarpaty&screen_name=andrekarpaty)
 
 
 I am AWS Certified DevOps engineer at <a href="https://rebbix.com/">Rebbix</a>
 
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 ## I like
-
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 - Travel :airplane: 
 - Contribute to open-source
@@ -18,6 +17,11 @@ I am AWS Certified DevOps engineer at <a href="https://rebbix.com/">Rebbix</a>
 ## 📈 My Github stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreKapraty&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+## My achievements
+
+- <a href="https://www.credly.com/badges/bb0bc8e8-3027-42f1-b189-48778ff62c96?source=linked_in_profile">AWS Certified DevOps Professioanl certification</a>
+- <a href="https://www.credly.com/badges/76922755-97b8-4272-beb7-adc60b3dc1c9">AWS Certified SysOps Associate</a>
 
 ### Connect with me
 
