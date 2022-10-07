@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/AStriletskyi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAStriletskyi&screen_name=astriletskyi)
 
 
-I am AWS Certified DevOps engineer at <a href="https://rebbix.com/">Rebbix</a>
+I am AWS Certified DevOps engineer at <a href="https://www.n-ix.com/">N-iX</a>
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
@@ -13,10 +13,6 @@ I am AWS Certified DevOps engineer at <a href="https://rebbix.com/">Rebbix</a>
 - Contribute to open-source
 - Learn new things
 - AWS, Kubernetes, Terraform, Go, Python
-
-## 📈 My Github stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreKapraty&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ## My achievements
 
